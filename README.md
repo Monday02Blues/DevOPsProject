@@ -39,5 +39,5 @@ The project includes a GitHub Actions workflow that:
 - Optionally runs tests
 - Deploys automatically to the hosting platform
 
-## Project Structure
+
 
